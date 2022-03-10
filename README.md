@@ -27,3 +27,4 @@
 
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yangsun6750)](https://solved.ac/yangsun6750)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yangsun6750)](https://solved.ac/yangsun6750/)
