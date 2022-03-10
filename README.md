@@ -2,6 +2,8 @@
 # I AM     YANG SUN YOUNG :smirk:
 #### https://sunyoung-yang.github.io/portfolio/    :cherry_blossom:
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=50&section=header&text=¡Hola!%20soy%20SENA&fontSize=40)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunyoung-yang&count_bg=%2389E998&title_bg=%237F7BE9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
@@ -22,6 +24,9 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![GitHub](https://img.shields.io/badge/Git-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
 
-## ☀️: Actions
+## :fire: Actions
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunyoung-yang&show_icons=true&theme=merko)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yangsun6750)](https://solved.ac/yangsun6750/)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
